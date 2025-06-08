@@ -4,6 +4,6 @@ Concrete Syntax Trees represent s-expressions with source information
 
 |---------+------------------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Concrete-Syntax-Tree.git |
-| commit  | 333abf7                                                          |
+| commit  | 868b372                                                          |
 | systems | concrete-syntax-tree-lambda-list concrete-syntax-tree            |
 |---------+------------------------------------------------------------------|
